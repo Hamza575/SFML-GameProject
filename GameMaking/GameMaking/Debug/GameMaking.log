@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\projects\gamemaking\gamemaking\source.cpp(71): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\projects\gamemaking\gamemaking\source.cpp(142): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\projects\gamemaking\gamemaking\source.cpp(301): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  GameMaking.vcxproj -> E:\Projects\GameMaking\Debug\GameMaking.exe
